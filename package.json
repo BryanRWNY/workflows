@@ -8,12 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/BryanRWNY/workflows.git"
   },
   "author": "Bryan C Wienczkowski <ski25@mac.com>",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-coffee": "^3.0.2",
     "gulp-util": "^3.0.8"
   }
 }
